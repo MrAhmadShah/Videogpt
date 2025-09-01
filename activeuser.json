@@ -18,6 +18,6 @@
         "username": "User2",
         "password": "Ahmad@786",
         "expirydate": "15-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
